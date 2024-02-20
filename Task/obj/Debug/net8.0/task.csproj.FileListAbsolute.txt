@@ -1,0 +1,15 @@
+D:\Study\7_Test\task\bin\Debug\net8.0\task.exe
+D:\Study\7_Test\task\bin\Debug\net8.0\task.deps.json
+D:\Study\7_Test\task\bin\Debug\net8.0\task.runtimeconfig.json
+D:\Study\7_Test\task\bin\Debug\net8.0\task.dll
+D:\Study\7_Test\task\bin\Debug\net8.0\task.pdb
+D:\Study\7_Test\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\7_Test\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+D:\Study\7_Test\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+D:\Study\7_Test\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+D:\Study\7_Test\task\obj\Debug\net8.0\task.sourcelink.json
+D:\Study\7_Test\task\obj\Debug\net8.0\task.dll
+D:\Study\7_Test\task\obj\Debug\net8.0\refint\task.dll
+D:\Study\7_Test\task\obj\Debug\net8.0\task.pdb
+D:\Study\7_Test\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+D:\Study\7_Test\task\obj\Debug\net8.0\ref\task.dll
